@@ -1,0 +1,64 @@
+body{
+    background-image: url(../images/background.jpg);
+}
+
+
+h1{
+border-style: solid;
+border-color:#4B0082;
+background-color: #E6E6FA;
+text-align: center;
+padding:25px;
+border-radius:6px;
+color:#4B0082;
+
+}
+
+.animal{
+
+    width: 75px ;
+    height: 40px;
+    border-style: solid;
+    border-color:#4B0082;
+    padding: 2px;
+    float: left;
+    margin: 2px;
+    background-color:#ADFF2F;
+    border-radius: 12px;
+    color:#4B0082;
+    font-weight: bold;
+
+}
+
+.animal:hover{
+    background-color:#00FFFF; 
+
+}
+
+label,#animal-input,#add-animal{
+    float:right;
+   
+    background-color: #ffff00;
+    font-weight: bold;
+    color:#4B0082;
+    padding:5px;
+
+}
+
+img{
+    
+    height:200px;
+    width:250;
+    border-style: solid;
+    padding:5px;
+    border-color:#4B0082;
+    
+}
+
+
+
+p{
+;
+color:#4B0082;
+padding:5px;
+}
